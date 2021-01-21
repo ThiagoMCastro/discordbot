@@ -4,8 +4,8 @@
  "prefix": "d.",
  "_comment": "Prefixo",
  "manutencao": "false",
- "Host": "remotemysql.com",
- "DB": "mYLJyxvzsg",
- "User": "mYLJyxvzsg",
- "Senha": "tln6YcZ3ki"
+ "Host": "",
+ "DB": "",
+ "User": "",
+ "Senha": ""
 }
